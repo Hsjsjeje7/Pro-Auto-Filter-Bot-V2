@@ -8,11 +8,11 @@ class Translation(object):
 
 <b>I am a Pro AutoFilterBot V2....😜</b>
 
-<b>Make me an admin for your group and channel then connect me....🎉</b>
+<b>Iam work only movie hut group</b>
 
-<b>🙂Watch the video below to build an Pro Autofilter bot V2 like me...</b>
+<b>Pls join my channel and group </b>
 
-<b>Subscribe to the update channel to learn about my updates and activity...</b>
+<b>My owner @THOMAS_MOVIE_HUT</b>
 
 <b>Press /help to know about available commands🤪</b>"""    
     
